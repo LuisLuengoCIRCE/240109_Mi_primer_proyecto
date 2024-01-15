@@ -4,8 +4,8 @@ def suma(a, b):
 
 print("Hello World!")
 
-a = 149
-b = 255
+a = 1500
+b = 2555
 
 c = suma(a, b)
 
