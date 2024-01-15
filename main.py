@@ -1,5 +1,6 @@
-def suma(a,b):
+def suma(a, b):
     return a + b
+
 
 print("Hello World!")
 
@@ -9,3 +10,5 @@ b = 257
 c = suma(a, b)
 
 print(c)
+
+d = a * b
